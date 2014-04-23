@@ -1,1 +1,3 @@
 This is a dummy file that I would like to push into github
+
+Nå er klokken 1545
